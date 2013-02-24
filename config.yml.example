@@ -30,8 +30,8 @@ campfire:
 # hello/goodbye messages can either be the name of a plugin, or a string
 # the plugin must be enabled, and not all plugins support this type of message
 bot:
-  hello: 'Mainframe: ONLINE'
-  goodbye: NO CARRIER
+  hello: 'Gyula is back on track!'
+  goodbye: 'Gyula goes to sleep, bye!'
 
 ## PLUGIN SETTINGS ##
 enabled_plugins:
